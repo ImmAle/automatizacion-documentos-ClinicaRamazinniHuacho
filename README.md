@@ -16,4 +16,4 @@ Aplicación de escritorio desarrollada en Python para automatizar la creación d
 - **DocxTpl** (Motor de plantillas Jinja2 para Word)
 - **PyInstaller** (Para compilación a .exe)
 
-    
+    ![Interfaz de Usuario](generador_ramazinni.png)

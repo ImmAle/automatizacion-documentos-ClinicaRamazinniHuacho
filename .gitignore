@@ -1,0 +1,19 @@
+# Archivos de compilación de Python
+__pycache__/
+*.py[cod]
+
+# Carpetas de PyInstaller 
+build/
+dist/
+*.spec
+
+# Carpetas de entorno virtual
+venv/
+env/
+
+# Archivos generados por la app
+DOCUMENTOS_GENERADOS/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
